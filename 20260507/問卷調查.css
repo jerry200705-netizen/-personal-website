@@ -1,0 +1,82 @@
+
+html{
+    width: 820px;
+    margin:  40px auto;
+    padding: 10px;
+
+}
+h1{
+    color: darkgray;
+}
+p{
+    color: darkgrey;
+}
+.a{
+   padding: 10px;
+   margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.b {
+    margin-top: 30px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.c {
+    margin-top: 30px;
+    margin-top: 40px;
+    padding: 50px 60px;
+    border: 2px dashed #d6d6d6;
+    border-radius: 12px;
+    background: #fafafa;
+}
+.c h2{
+     text-align: center;
+    color: #666;
+    font-weight: normal;
+    margin: 15px 0 40px;
+}
+.d {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.e {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.f {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.g {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.h {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;
+}
+.i {
+    
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #555;   
+}
+.j{
+font-size: 3em;
+
+}
